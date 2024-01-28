@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamathAbhaySunil
-- 👀 I’m interested in neural networking
-- 🌱 I’m currently learning python
+- 👀 I’m interested in robotics and embedded systems
+- 🌱 I’m currently learning stm32 coding and ROS
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me abhaysk23@gmail.com
 
