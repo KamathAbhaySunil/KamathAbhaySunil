@@ -14,13 +14,13 @@ Hello! I'm an enthusiast of robots, embedded systems, and microcontrollers. My p
 I'm currently working on integrating ROS with Linux to create advanced robotic systems. This involves:
 - Writing and testing ROS nodes for NAV2 stack
 - Developing communication interfaces including microROS on STM32
-- Implementing sensor integration and data processing for LiDAR and camera usage in SLAM
+
 
 ### 2. STM32 Microcontroller Projects
 My work with STM32 microcontrollers includes:
 - Developing firmware for microROS communication with ROS2 Humble
 - Interfacing with sensors and actuators such as wheel encoders and IMUs
-- Optimizing real-time performance using FreeRTOS
+
 
 ## Skills
 
